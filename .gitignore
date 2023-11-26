@@ -1,0 +1,5 @@
+# 忽略文件列表
+*.o
+MyApp
+obj/
+!.gitkeep
