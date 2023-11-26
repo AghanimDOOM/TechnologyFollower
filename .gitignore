@@ -3,3 +3,4 @@
 MyApp
 obj/
 !.gitkeep
+.vscode
